@@ -25,7 +25,9 @@ SECRET_KEY = '9v@k^!i!l_8=2mecup)%x-%9miptpe8m59ei23xyr^%*0nojgf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'desolate-sea-11701.herokuapp.com',
+]
 
 
 # Application definition
